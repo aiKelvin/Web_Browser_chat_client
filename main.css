@@ -1,0 +1,17 @@
+#header{
+}
+
+#connection{
+	border: 1px solid grey;
+	border-radius: 5px;
+}
+
+#statuses{
+	border: 1px solid grey;
+	border-radius: 5px;
+}
+
+#sendForms{
+	border: 1px solid grey;	
+	border-radius: 5px;
+}
